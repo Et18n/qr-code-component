@@ -29,6 +29,7 @@ body{
     font-family: 'Outfit',sans-serif;
     border-radius:20px;
     text-align: center;
+    margin:1em;
 }
 .card img{
     width: 100%;
