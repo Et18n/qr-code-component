@@ -14,10 +14,6 @@
 - Mobile-first workflow
 
 
-### What I learned
-
-How to write flexbox code.
-
 
 ## Author
 
